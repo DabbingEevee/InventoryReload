@@ -1,0 +1,12 @@
+{
+    "commands.invreload.fail.notplayer": "Unable to reload inventory \"%s\", %s is not a player",
+    "commands.invreload.fail.nosuchsavedinventory": "Unable to retrieve unknown inventory of \"%s\"",
+    "commands.invreload.fail.corruptedinventory": "An unexpected issue has caused inventory \"%s\" to incorrectly save",
+    "commands.invreload.fail.unknown": "An unknown issue has happened, and \"%s\" cannot be reloaded",
+    "commands.invreload.success": "Successfully reloaded inventory \"%s\" of %s",
+    
+    "commands.invsave.fail.notplayer": "Unable to save inventory, %s is not a player",
+    "commands.invsave.fail.unknown": "An unknown issue has happened, and inventory \"%s\" cannot be saved",
+    "commands.invsave.success": "Successfully saved inventory \"%s\" of %s"    
+    
+}
